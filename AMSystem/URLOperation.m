@@ -25,7 +25,7 @@
 @property NSMutableData *body;
 //图片数据集合
 @property NSMutableDictionary *images;
-
+/////
 @end
 
 
